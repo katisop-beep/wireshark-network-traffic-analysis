@@ -177,7 +177,7 @@ Wireshark's I/O Graph was used to visualize packet activity over time and identi
 
 ## Packet Capture File
 
-The packet capture used for this analysis can be added to this repository as a `.pcapng` file so the investigation can be reviewed and reproduced in Wireshark.
+The packet capture used for this analysis is included in this repository as `Wireshark Network Traffic Analysis.pcapng`. The capture can be opened in Wireshark to review the packets, apply the documented display filters, and reproduce the analysis presented in this project.
 
 ## Project Outcome
 
